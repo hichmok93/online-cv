@@ -71,7 +71,7 @@ education:
           
       - degree: Minor+ (Big) Data Engineering
         university: Hogeschool Rotterdam
-        time: 2022 - 2022
+        time: 2022 - 2022 (behaald)
         details: |
           Gedurende de minor+ heb ik vakken gevolgd in het ontwerpen, bouwen en beheren van big data-oplossingen. Ervaring met data-analyse, databases, cloud computing en data-architectuur. Gericht op praktijkgerichte toepassingen in bedrijfsomgevingen, met sterke vaardigheden in het verwerken en analyseren van grote datasets.
       - degree: Allround laborant 
@@ -103,16 +103,15 @@ experiences:
         details: |
           Laboratorium werkzaamheden op de Klinische afdeling van het laboratorium.
       - role: Qaulity control Analyst  
-        time: sep 2020 - mrt 2021
+        time: sep 2018 - aug 2019
         company: Synergy Food Ingredients and Processing B.V.
         details: |
-          Laboratorium werkzaamheden op het gebied van coltrole van de producten uit de fabriek.
-      - role: Laboratoriumassistent  (stage)
+          Laboratorium werkzaamheden op het gebied rapportage en kwaliteits controllen.
+      - role: Laboratoriumassistent (stage)
         time: apr 2018 - sep 2018
         company: Koppert Biological Systems 
         details: |
-          Afstudeerstage laboratorium opleiding.
-                Laboratorium werkzaamheden op het gebied van coltrole van de producten uit de fabriek.
+          Afstudeerstage laboratorium opleiding. 
                
 
 oss:
