@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: ''
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,7 +42,7 @@ sidebar:
           level: Professional
 
         - idiom: Spaans
-          level: Basis
+          level: Basic
 
     interests:
       title: Interesses
@@ -59,7 +59,7 @@ sidebar:
 career-profile:
     title: Carrièreprofiel
     summary: |
-      Als IT-professional met ervaring in servicedesk en backoffice functies, waarbij ik onder andere heb gewerkt aan de migratie van werkomgevingen, procesautomatisering in Microsoft 365, en het ontwikkelen van dashboards met Power BI. Ik heb een technische achtergrond dankzij mijn opleiding Business IT & Management (BIM) aan de Hogeschool Rotterdam, gecombineerd met een minor in Data Engineering. Eerdere werkervaring omvat ook kwaliteitscontrole en laboratoriumfuncties.
+      Als IT-professional met ervaring in servicedesk en backoffice functies, waarbij ik onder andere heb gewerkt aan de migratie van werkomgevingen, procesautomatisering in Microsoft 365, en het ontwikkelen van dashboards met Power BI. Ik heb een technische achtergrond dankzij mijn opleiding Business IT & Management (BIM) aan de Hogeschool Rotterdam, gecombineerd met een minor+ in Data Engineering. Eerdere werkervaring omvat ook kwaliteitscontrole en laboratoriumfuncties.
 education:
     title: Opleiding
     info:
@@ -74,6 +74,11 @@ education:
         time: 2022 - 2022
         details: |
           Gedurende de minor+ heb ik vakken gevolgd in het ontwerpen, bouwen en beheren van big data-oplossingen. Ervaring met data-analyse, databases, cloud computing en data-architectuur. Gericht op praktijkgerichte toepassingen in bedrijfsomgevingen, met sterke vaardigheden in het verwerken en analyseren van grote datasets.
+      - degree: Allround laborant 
+        university: Techniek College Rotterdam 
+        time: 2013 - 2017 (behaald)
+        details: |
+          Mijn opleiding tot laboratorium medewerker, waarbij ik verschillende werkzaamheden heb uitgevoerd in microbiologisch en chemische labs. bij het uitvoeren van kwalitiets controle bepalingen. 
 experiences:
     title: Werkervaring 
     info:
@@ -92,6 +97,23 @@ experiences:
         company: OGD-ICT diensten
         details: |
           Als servicedeskmedewerker ondersteunde ik gebruikers bij IT-gerelateerde problemen, zoals software-installaties, netwerkverbindingen en accountbeheer. Mijn werkzaamheden omvatten het aannemen, registreren en oplossen van incidenten via Topdesk, het beheren van gebruikersaccounts via Azure AD, en het bieden van technische ondersteuning voor Microsoft 365-producten.
+      - role: medewerker Kwaliteitscontrole  
+        time: sep 2020 - mrt 2021
+        company: Star - Shl 
+        details: |
+          Laboratorium werkzaamheden op de Klinische afdeling van het laboratorium.
+      - role: Qaulity control Analyst  
+        time: sep 2020 - mrt 2021
+        company: Synergy Food Ingredients and Processing B.V.
+        details: |
+          Laboratorium werkzaamheden op het gebied van coltrole van de producten uit de fabriek.
+      - role: Laboratoriumassistent  (stage)
+        time: apr 2018 - sep 2018
+        company: Koppert Biological Systems 
+        details: |
+          Afstudeerstage laboratorium opleiding.
+                Laboratorium werkzaamheden op het gebied van coltrole van de producten uit de fabriek.
+               
 
 oss:
     title: Open-Source Projecten
