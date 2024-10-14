@@ -117,15 +117,15 @@ experiences:
 oss:
     title: Open-Source Projecten
     intro: 
-      Een weergave aan verschillende projecten waaraan ik heb gewerkt zowel op privé als op zakelijk vlak. 
+      Een weergave van verschillende projecten waaraan ik heb gewerkt zowel op privé als op zakelijk vlak. 
     contributions:
       - title: Claudia's delight website (MKB)
         link: "https://hichmok93.github.io/Claudias-Delight/"
-        tagline: "Een responsieve website template ontworpen om een foodtruck te promoten van hun producten of diensten."
+        tagline: "Een responsieve website template vormgegeven om een foodtruck bedrijf te promoten en de producten/diensten te adverteren."
 
       - title: Personal Website-himoki's World (blog) 
         link: "http://hichmok93.github.io/"
-        tagline: "Een uitgebreide website template gebruikt voor het vormgeven van mijn teksten online in blog format."
+        tagline: "Een uitgebreide website template gebruikt voor het vormgeven van mijn teksten online in blog."
 
       - title: Photografie Website (Kagati) 
         link: "https://hichmok93.github.io/Kagati/"
