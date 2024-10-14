@@ -102,7 +102,7 @@ experiences:
         company: Star - Shl 
         details: |
           Laboratorium werkzaamheden op de Klinische afdeling van het laboratorium.
-      - role: Qaulity control Analyst  
+      - role: Quality control analist  
         time: sep 2018 - aug 2019
         company: Synergy Food Ingredients and Processing B.V.
         details: |
@@ -117,7 +117,7 @@ experiences:
 oss:
     title: Open-Source Projecten
     intro: 
-      Een weergave aan verschillende projecten waaraan ik heb gewerkt zowel op prive als zakelijk vlak. 
+      Een weergave aan verschillende projecten waaraan ik heb gewerkt zowel op privé als op zakelijk vlak. 
     contributions:
       - title: Claudia's delight website (MKB)
         link: "https://hichmok93.github.io/Claudias-Delight/"
