@@ -86,7 +86,7 @@ experiences:
     title: Werkervaring 
     info:
       - role: Scriptie Student (Rond Data Spaces and interoperabiliteit binnen data - Ecosystemen)
-        time: Nov 2025 - heden
+        time: Nov 2025 - April 2025
         company: ISHARE-Foundation 
         details: | 
           In mijn afstudeeronderzoek richt ik mij op de uitdagingen van data-eigendom en interoperabiliteit van vertrouwen binnen Europese B2B data-ecosystemen in sectoren zoals logistiek, landbouw, bouw, en energie. Door middel van het iSHARE Trust Framework onderzoek ik hoe data veilig en transparant kan worden gedeeld tussen bedrijven, met als doel een betere samenwerking en dataveiligheid.
@@ -137,22 +137,22 @@ oss:
         tagline: "Een uitgebreide website template gebruikt voor het vormgeven van mijn teksten online in een blog."
 
       - title: Photografie Website (hichmoki) 
-        link: "https://hichmok93.github.io/hugo.github.io/"
+        link: "https://hichmok93.github.io/Hugo.kagati.github.io/
         tagline: "Een responsief foto pagina die het werk van hobby fotografen tentoonstelt."
 skills:
     title: programming skills
 
     toolset:
-      - name: Python
-        level: 50%
-
-      - name: Hugo
-        level: 20%
-
-      - name: HTML5 & CSS
+      - name: DevOps(Docker, GitHub Actions, Vercel, PostgreSQL)
         level: 70%
 
-      - name: Jekyll
+      - name: Python, SQL, HTML/CSS, Bash
+        level: 40%
+
+      - name: Frameworks React, Node.js
+        level: 30%
+
+      - name: Hugo, go(golang)
         level: 60%
 
 footer: >
