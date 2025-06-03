@@ -47,7 +47,7 @@ sidebar:
     interests:
       title: Interesses
       info:
-        - item: schaken
+        - item: Schaken
           link:
 
         - item: Koken
@@ -56,7 +56,7 @@ sidebar:
         - item: Backpacken
           link: https://hichmok93.github.io/hugo.github.io/
 
-        - item: wedstrijdzwemmen
+        - item: Wedstrijdzwemmen
           link: 
 
 career-profile:
