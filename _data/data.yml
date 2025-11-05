@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Hicham Gardeslen
-    tagline: Student Business IT & Management 
+    tagline: Business IT & Management 
     avatar: android-chrome-192x192.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,7 +30,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: https://www.dropbox.com/scl/fi/zhfjd8g4m5bd98f1kj2ts/hichmok93-github-io-online-cv.pdf?rlkey=q26eg5ra4q3l0r92jr8y2pg1y&st=tjex7jwi&dl=0 # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Talen
@@ -62,13 +62,13 @@ sidebar:
 career-profile:
     title: Carrièreprofiel
     summary: |
-      Als IT-professional met ervaring in servicedesk en backoffice functies, waarbij ik onder andere heb gewerkt aan de migratie van werkomgevingen, procesautomatisering in Microsoft 365, en het ontwikkelen van dashboards met Power BI. Ik heb een technische achtergrond dankzij mijn opleiding Business IT & Management (BIM) aan de Hogeschool Rotterdam, gecombineerd met een minor+ in Data Engineering. Eerdere werkervaring omvat ook kwaliteitscontrole en laboratoriumfuncties.
+      Als IT-professional met ervaring in servicedesk- en backofficefuncties, werkplek- en systeembeheer heb ik onder andere gewerkt aan de migratie van werkomgevingen voor de Tweede Kamer, procesautomatisering binnen Microsoft 365, en het ontwikkelen van dashboards met Power BI. Bij OGD en het Verbond van Verzekeraars heb ik administratieve processen geautomatiseerd met behulp van Power Automate en SharePoint, en Power BI-dashboards ontwikkeld om operationele data inzichtelijk te maken. Daarnaast heb ik bijgedragen aan de optimalisatie van het onboardingproces door workflows te automatiseren en informatiebeheer te stroomlijnen binnen de Microsoft 365-omgeving. Ik beschik over een technische achtergrond dankzij mijn opleiding Business IT & Management (BIM) aan de Hogeschool Rotterdam, aangevuld met een minor+ in Data Engineering.
 education:
     title: Opleiding
     info:
-      - degree: BSc Business IT & Management (BIM)
+      - degree: BSc Business IT & Management
         university: Hogeschool Rotterdam
-        time: 2018 - heden
+        time: 2018 - 2025 (behaald)
         details: |
          Tijdens mijn studie Business IT & Management (BIM) aan de Hogeschool Rotterdam heb ik geleerd hoe bedrijfsprocessen en informatietechnologie effectief kunnen worden geïntegreerd om organisaties te ondersteunen in hun strategische beslissingen en operationele efficiëntie te verbeteren. Ik heb vaardigheden ontwikkeld in data-analyse, systeemontwikkeling en IT-oplossingen, terwijl ik ook managementcompetenties heb opgedaan, zoals projectmanagement en bedrijfsanalyse. Deze opleiding heeft mij goed voorbereid om als brug te fungeren tussen IT en bedrijfsvoering, en waardevolle veranderingen door te voeren binnen verschillende sectoren.
           
@@ -85,7 +85,13 @@ education:
 experiences:
     title: Werkervaring 
     info:
-      - role: Scriptie Student (Rond Data Spaces and interoperabiliteit binnen data - Ecosystemen)
+    - role: HR-Assistent 
+        time: Juli 2025 - heden
+        company: Verbond van Verzekeraars 
+        details: | 
+          Tijdens mijn stage bij het Verbond van Verzekeraars heb ik als HR-assistent bijgedragen aan verschillende HR-processen, waaronder werving en selectie, onboarding van nieuwe medewerkers, en administratieve ondersteuning. Ik heb ervaring opgedaan met het beheren van personeelsdossiers, het coördineren van interviews, en het ondersteunen van HR-projecten gericht op het verbeteren van de werknemerservaring binnen de organisatie.
+
+    - role: Scriptie Student (Rond Data Spaces and interoperabiliteit binnen data - Ecosystemen)
         time: Nov 2025 - April 2025
         company: ISHARE-Foundation 
         details: | 
