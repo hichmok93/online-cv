@@ -85,13 +85,12 @@ education:
 experiences:
     title: Werkervaring 
     info:
-    - role: HR-Assistent 
+      - role: HR-Assistent 
         time: Juli 2025 - heden
         company: Verbond van Verzekeraars 
-        details: | 
+        details: |
           Tijdens mijn stage bij het Verbond van Verzekeraars heb ik als HR-assistent bijgedragen aan verschillende HR-processen, waaronder werving en selectie, onboarding van nieuwe medewerkers, en administratieve ondersteuning. Ik heb ervaring opgedaan met het beheren van personeelsdossiers, het coördineren van interviews, en het ondersteunen van HR-projecten gericht op het verbeteren van de werknemerservaring binnen de organisatie.
-
-    - role: Scriptie Student (Rond Data Spaces and interoperabiliteit binnen data - Ecosystemen)
+      - role: Scriptie Student (Rond Data Spaces and interoperabiliteit binnen data - Ecosystemen)
         time: Nov 2025 - April 2025
         company: ISHARE-Foundation 
         details: | 
